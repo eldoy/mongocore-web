@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(247, 231, 232);
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 16pt;
+}
+
+section.content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+aside {
+  font-size: 12pt;
+  color: rgb(120, 120, 120);
+}
+
+a,
+a:visited,
+a:active {
+  color: rgb(100, 240, 0);
+}
