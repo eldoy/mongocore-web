@@ -1,12 +1,13 @@
 body {
-  background-color: rgb(247, 231, 232);
+  background-color: #f5f5f5;
   font-family: 'Saira Extra Condensed', sans-serif;
   font-size: 16pt;
 }
 
 section.content {
-  max-width: 600px;
+  max-width: 650px;
   margin: 0 auto;
+  color: #4e4d4e;
 }
 
 aside {
@@ -17,5 +18,24 @@ aside {
 a,
 a:visited,
 a:active {
-  color: rgb(100, 240, 0);
+  color: #0099cc;
+}
+
+h1{
+  font-size: 52px;
+}
+
+#title-what-you-can {
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: #009193;
+}
+
+li{
+   font-size: 22px;
+}
+
+.content img {
+  margin-right: 16px;
 }
