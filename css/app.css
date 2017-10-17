@@ -39,3 +39,18 @@ li{
 .content img {
   margin-right: 16px;
 }
+
+/*Mobile*/
+
+@media screen and (max-width: 680px) {
+
+  h1 {
+  font-size: 32px;
+
+  }
+
+  section.content {
+    margin-left: 20px;
+
+  }
+}
