@@ -1,0 +1,1 @@
+Sitemap: http://mongocore.com/sitemap.xml
